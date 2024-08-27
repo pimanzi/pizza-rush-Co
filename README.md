@@ -1,2 +1,8 @@
-# pizza-rush-Co
-Pizza Rush Co is a sleek web app built with React and Tailwind CSS, offering a curated menu for easy pizza ordering. Customers can browse, select their favorite pizzas, and pay upon delivery. Enjoy a hassle-free experience from order to doorstep, ensuring fresh and delicious pizza every time!
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
